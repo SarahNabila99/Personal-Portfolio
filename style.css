@@ -1,0 +1,91 @@
+body
+{background-color: PeachPuff;
+}
+
+
+h1 {
+	color:Linen;
+	background: PaleVioletRed;
+	font-family: 'Luckiest Guy', cursive;
+	font-size: 70px;
+	border: dotted;
+	border-color: White;
+	border-radius: 40px;
+
+}
+
+
+h2 {
+	color: White;
+	background: LightCoral;
+	font-family: 'Caveat', cursive;
+	font-size: 40px;
+	border: groove;
+	border-color: White;
+	border-radius: 30px;
+}
+
+
+h3 {
+	color: White;
+	background: FireBrick;
+	font-family: Copperplate;
+	font-size: 30px;
+	border: groove;
+	border-color: White;
+	border-radius: 20px;
+}
+
+
+h4 {
+	color: White;
+	background: MidnightBlue;
+	font-family: Copperplate;
+	font-size: 30px;
+	border: groove;
+	border-color: White;
+	border-radius: 20px;
+}
+
+
+p {
+	color: White;
+	background: #ffb399;
+	font-family: 'Acme', sans-serif;
+	font-size: 25px;
+	border: ridge;
+	border-color: #ffe6e6;
+	border-bottom-right-radius: 20px
+}
+
+
+a:link, a:visited
+		{
+		background-color: hotpink;
+		color: black;
+		padding: 15px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		border: solid;
+		border-top-left-radius: 15px;
+		border-bottom-right-radius: 15px;
+
+		}
+		
+		a:hover
+		{
+			color: black;
+			background-color: #e699ff;
+			text-decoration: none;
+		}
+
+		a:active
+		{
+			color: black;
+			background-color: #e699ff;
+			text-decoration: none;
+		}
+
+
+		
